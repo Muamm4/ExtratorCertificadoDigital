@@ -1,2 +1,11 @@
-# ExtratorCertificadoDigital
-Arquivo para leitura e extração do Certificado Digital / Chave Publica / Chave Privada atrás do Arquivo .pfx oferecidos pelos Orgãos regulamentadores
+# Extrator de Certificado Digital.
+
+Arquivo para leitura e extração de:.
+
+  - **Certificado Digital.**
+  
+  - **Chave Publica.**
+  
+  - **Chave Privada.** 
+  
+  Utilizando o arquivo **.pfx** oferecidos pelos **Orgãos regulamentadores**.
